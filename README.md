@@ -20,7 +20,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jichuuu-00&layout=compact)](https://github.com/jichuuu/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jichuuu)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jichuuu)](https://velog.io/@jichuuu)
 
 </div>
 <!--
