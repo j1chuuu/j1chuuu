@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=CSS3&logoColor=white">
+
 
 <br>
 <br>
