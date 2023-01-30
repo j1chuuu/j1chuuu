@@ -18,13 +18,3 @@
 
 <br>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jichuuu-00&count_private=true&show_icons=true&theme=radical&theme=covalt)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jichuuu-00&layout=compact)](https://github.com/jichuuu/github-readme-stats)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jichuuu)](https://velog.io/@jichuuu)
-
-</div>
-<!--
-**jichuuu-00/jichuuu-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
